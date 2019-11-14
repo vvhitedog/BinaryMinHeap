@@ -25,13 +25,10 @@
 #ifndef BINMINHEAP_H_
 #define BINMINHEAP_H_
 
-#include <vector>
 #include <cassert>
 #include <iostream>
 #include <iomanip>
-#include <algorithm>
 #include <boost/unordered_map.hpp>
-#include <boost/type_traits.hpp>
 #include <boost/static_assert.hpp>
 
 namespace binminheap {

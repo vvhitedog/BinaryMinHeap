@@ -23,6 +23,7 @@
 // different underlying datastructures
 #include <binminheap.h>
 #include <map>
+#include <boost/unordered_map.hpp>
 
 using namespace binminheap;
 using namespace std;
